@@ -10,3 +10,12 @@ Results with Go.
 Found a set of 2 numbers, [1011 1009], that sum up to 2020 in 1.0002ms
 Found a set of 3 numbers, [1434 520 66], that sum up to 2020 in 12.0027ms
 ```
+
+## Day 2
+
+Results with Python.
+```
+(aoc20_day2) λ python parser.py
+Valid part 1 passwords: 493
+Valid part 2 passwords: 593
+```
