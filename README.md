@@ -19,3 +19,11 @@ Results with Python.
 Valid part 1 passwords: 493
 Valid part 2 passwords: 593
 ```
+
+## Day 3
+
+Results with Go.
+```
+λ go run main.go
+Found a set of trees, [53 167 54 67 23], with given x-y steps in 2.9938ms
+```
