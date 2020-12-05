@@ -36,3 +36,13 @@ Results with Go.
 Part 1: found 233 valid passports from a total of 288 passports in 0s
 Part 2: found 111 valid passports from a total of 288 passports in 4.9946ms
 ```
+
+## Day 5
+
+Results with Python.
+```
+λ python main.py
+Part 1: the highest seat ID on the list is '928'
+Part 2: the seat ID missing (my seat!) is: '610'
+Execution completed in 3.0ms
+```
