@@ -46,3 +46,14 @@ Part 1: the highest seat ID on the list is '928'
 Part 2: the seat ID missing (my seat!) is: '610'
 Execution completed in 3.0ms
 ```
+
+## Day 6
+
+Results with Python.
+
+```
+λ python main.py
+Part 1: groups had a total of 7110 unique answers
+Part 2: groups had a total of 3628 same answers (entire group answered 'yes' to the same question)
+Execution completed in 4.001ms
+```
