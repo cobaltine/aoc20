@@ -57,3 +57,13 @@ Part 1: groups had a total of 7110 unique answers
 Part 2: groups had a total of 3628 same answers (entire group answered 'yes' to the same question)
 Execution completed in 4.001ms
 ```
+
+## Day 8
+
+Results with Python.
+
+```
+λ python main.py
+Part 1: before termination, accumulator was at value '1810', completed in 0.9990000000000001ms
+Part 2: before termination, accumulator was at value '969', completed in 0.9990000000000001ms
+```
