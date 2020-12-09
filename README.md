@@ -67,3 +67,13 @@ Results with Python.
 Part 1: before termination, accumulator was at value '1810', completed in 0.9990000000000001ms
 Part 2: before termination, accumulator was at value '969', completed in 0.9990000000000001ms
 ```
+
+## Day 9
+
+Results with Python.
+
+```
+λ python main.py
+Part 1: found outlier value '776203571', execution time 0.0ms
+Part 2: found min '27369156' and max '77431413' with a sum of 104800569, execution time 19.787ms
+```
