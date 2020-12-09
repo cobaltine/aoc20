@@ -58,6 +58,16 @@ Part 2: groups had a total of 3628 same answers (entire group answered 'yes' to 
 Execution completed in 4.001ms
 ```
 
+## Day 7
+
+Results with Python.
+
+```
+λ python main.py
+Part 1: found '197' bags of different colors that can hold shiny gold bags, execution time 6.872999999999999ms
+Part 2: the ultimate depth of a shiny gold bag is '85324' execution time 5.012ms
+```
+
 ## Day 8
 
 Results with Python.
