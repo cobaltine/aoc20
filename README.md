@@ -87,3 +87,24 @@ Results with Python.
 Part 1: found outlier value '776203571', execution time 0.0ms
 Part 2: found min '27369156' and max '77431413' with a sum of 104800569, execution time 19.787ms
 ```
+
+## Day 10
+
+Results with Python.
+
+```
+λ python main.py
+Part 1: found '100' adapters, with 1*3 adapter counts totalling 2176, execution time 0.0ms
+Part 2: found '18512297918464' different configurations, execution time 0.0ms
+```
+Refactored part 2 based on community suggestions for vastly better performance.
+
+## Day 12
+
+Results with Go.
+
+```
+λ go run main.go
+Part 1: manhattan distance:  845
+Part 2: manhattan distance:  27016
+```
